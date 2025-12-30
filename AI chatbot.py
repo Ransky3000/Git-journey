@@ -3,7 +3,7 @@ import requests
 
 # ================== CONFIG ==================
 API_KEY = "AIzaSyAAPjzc7anEdRy96EPZzKgc9BLDN-OTRos"  # <-- paste your Gemini API key here
-API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
+API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent"
 
 # ================== CHATBOT APP ==================
 class ChatBotGUI:
